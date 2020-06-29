@@ -1407,7 +1407,7 @@ section {
 --------------------------------------------------------------*/
 #footer {
   background: #1f2627;
-  padding: 0 0 30px 0;
+  padding: 0 0 20px 0;
   color: #fff;
   font-size: 14px;
 }
@@ -1415,11 +1415,11 @@ section {
 #footer .footer-top {
   background: #2a3336;
   border-bottom: 1px solid #354144;
-  padding: 60px 0 30px 0;
+  padding: 20px 0 20px 0;
 }
 
 #footer .footer-top .footer-info {
-  margin-bottom: 30px;
+  /* margin-bottom: 30px; */
 }
 
 #footer .footer-top .footer-info h3 {
@@ -1540,7 +1540,7 @@ section {
 
 #footer .copyright {
   text-align: center;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 #footer .credits {
