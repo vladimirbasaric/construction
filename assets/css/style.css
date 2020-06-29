@@ -715,7 +715,7 @@ section {
   border: 0;
   background: #f7f7f7;
   position: relative;
-  transition: 0.8s;
+  transition: 0.3s;
 }
 
 .features .card-body {
@@ -743,7 +743,7 @@ section {
 
 .features .card-title a {
   color: #444444;
-  transition: 0.8s;
+  transition: 0.3s;
 }
 
 .features .card-text {
