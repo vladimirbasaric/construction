@@ -144,13 +144,13 @@ h1, h2, h3, h4, h5, h6 {
 .landing-logo {
   padding: 0;
   margin: 0;
-  max-height: 450px;
+  max-height: 300px;
 }
 
 .footer-logo {
   padding: 0;
   margin: 0;
-  max-height: 70px;
+  max-height: 90px;
 }
 
 /*--------------------------------------------------------------
