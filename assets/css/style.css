@@ -440,6 +440,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 80%;
   -webkit-animation-delay: 0.4s;
   animation-delay: 0.4s;
+  font-size: 1.5rem;
   margin: 0 auto 30px auto;
   color: #fff;
 }
@@ -643,6 +644,11 @@ section {
 
 .about .content p:last-child {
   margin-bottom: 0;
+}
+
+.btn-about {
+  border: solid thin;
+  border-radius: 5px;
 }
 
 /*--------------------------------------------------------------
@@ -1150,7 +1156,7 @@ section {
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-.contact .info-wrap {
+/* .contact .info-wrap {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 30px;
 }
@@ -1296,7 +1302,7 @@ section {
   100% {
     transform: rotate(360deg);
   }
-}
+} */
 
 /*--------------------------------------------------------------
 # Breadcrumbs
