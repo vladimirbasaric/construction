@@ -609,6 +609,19 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.size-1 {
+  font-size: 18px;
+}
+
+.size-2 {
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 60px;
+  margin-bottom: 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 .about .content h2 {
   font-weight: 700;
   font-size: 32px;
